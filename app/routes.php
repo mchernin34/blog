@@ -12,4 +12,7 @@
 */
 
 Route::get('/', 'HomeController@showWelcome');
-Route::get('/', 'PostController@show');
+
+Route::get('post/listing', 'PostController@listing');
+
+Route::get('post/single', 'PostController@single');
