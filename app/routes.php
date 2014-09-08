@@ -13,6 +13,20 @@
 
 Route::get('/', 'HomeController@showWelcome');
 
-Route::get('post/listing', 'PostController@listing');
+Route::get('post/listing', array(
+	'uses' => 'PostController@listing',
+	'as' => 'get.post.listing'
+));
 
-Route::get('post/single', 'PostController@single');
+Route::get('post/{id}/{slug}', array(
+	'uses' => 'PostController@single',
+	'as' => 'get.post.single'
+))->where(array(
+	'id' => '[1-9][0-9]*',
+	'slug' => '[a-zA-Z0-9-_]+'	
+));
+
+Route::post('post/{id}', array(
+	'uses' => 'PostController@update',
+	'as' => 'post.post.single'
+))->where('id', '[1-9][0-9]*');

@@ -8,8 +8,10 @@ class PostController extends \BaseController {
 	}
 
 	// view single post
-	public function single() {
-		return View::make('post.single');
+	public function single($id) {
+		return View::make('post.single')->with('id', $id);
 	}
+
+	
 
 }
