@@ -2,11 +2,14 @@
 
 class PostController extends \BaseController {
 
-	public function show() {
-		$post = new StdClass();
-		$post->title = 'My post title';
+	// list all posts
+	public function listing() {
+		return View::make('post.listing');
+	}
 
-		return View::make('post.show')->with('post', $post);
+	// view single post
+	public function single() {
+		return View::make('post.single');
 	}
 
 }
