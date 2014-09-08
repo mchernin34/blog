@@ -12,6 +12,9 @@ class PostController extends \BaseController {
 		return View::make('post.single')->with('id', $id);
 	}
 
-	
+	// update single post
+	public function update($id) {
+		
+	}
 
 }
