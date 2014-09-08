@@ -1,0 +1,1345 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getho",
+				"gethostname"
+			],
+			[
+				"ale",
+				"alert-success"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"message",
+				"messages"
+			],
+			[
+				"help",
+				"help-block"
+			],
+			[
+				"name",
+				"name-group"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"$location",
+				"$locationProvider	AngularJS"
+			],
+			[
+				"$route",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"con",
+				"config	AngularJS"
+			],
+			[
+				"ng",
+				"ng-app	AngularJS"
+			],
+			[
+				"pos",
+				"pos	position: ${1:relative};"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"user",
+				"userRepo"
+			],
+			[
+				"User",
+				"UserRepository"
+			],
+			[
+				"use",
+				"userIdToFollow"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"Regis",
+				"RegisterUserCommand"
+			],
+			[
+				"Commander",
+				"CommanderTrait"
+			],
+			[
+				"status",
+				"statuses"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"forea",
+				"foreach	foreach …"
+			],
+			[
+				"link",
+				"link_to_route"
+			],
+			[
+				"Use",
+				"User"
+			],
+			[
+				"statuse",
+				"statusesForUser"
+			],
+			[
+				"statu",
+				"statusesForUser"
+			],
+			[
+				"time",
+				"times"
+			],
+			[
+				"Test",
+				"TestDummy"
+			],
+			[
+				"Status",
+				"StatusRepository"
+			],
+			[
+				"publi",
+				"publishStatusCommand"
+			],
+			[
+				"Stat",
+				"StatusRepository"
+			],
+			[
+				"fore",
+				"foreach	blade-foreach"
+			],
+			[
+				"stat",
+				"statusRepository"
+			],
+			[
+				"com",
+				"compact"
+			],
+			[
+				"Fortex",
+				"Form-textarea	Form-textarea"
+			],
+			[
+				"Authlog",
+				"Auth-logout	Auth-logout"
+			],
+			[
+				"form",
+				"formData"
+			],
+			[
+				"valid",
+				"validate"
+			],
+			[
+				"Lara",
+				"Larabook"
+			],
+			[
+				"command",
+				"commandBus"
+			],
+			[
+				"Comman",
+				"CommandBus"
+			],
+			[
+				"registration",
+				"registrationForm"
+			],
+			[
+				"Validation",
+				"ValidationServiceProvider"
+			],
+			[
+				"Registra",
+				"RegistrationController"
+			],
+			[
+				"regis",
+				"register_path"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"Sche",
+				"Schema-drop	Schema-drop"
+			],
+			[
+				"routeP",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"ng-op",
+				"ng-options	AngularJS"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"ngcl",
+				"ng-click	AngularJS"
+			],
+			[
+				"scop",
+				"$scope	AngularJS"
+			],
+			[
+				"9a",
+				"9ac14c"
+			],
+			[
+				"lisstty",
+				"list-style-type"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"asse",
+				"assets"
+			],
+			[
+				"lsty",
+				"list-style"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/controllers/BaseController.php",
+			"settings":
+			{
+				"buffer_size": 256,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"vie",
+				"View In Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"viwe",
+				"View In Browser"
+			],
+			[
+				"v",
+				"View In Browser"
+			],
+			[
+				"cdn",
+				"Cdnjs: Import Script"
+			],
+			[
+				"vi",
+				"View In Browser"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"Snippet: ",
+				"Snippet: passwordfield"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"Snippet: pass",
+				"Snippet: passwordfield"
+			],
+			[
+				"prettif",
+				"HTMLPrettify"
+			],
+			[
+				"cnd",
+				"Cdnjs: Import Script"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"md",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"pretif",
+				"HTMLPrettify"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"mdgi",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"syntamd",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"mach",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"bs3cdn",
+				"Snippet: bs3-block-button-danger"
+			],
+			[
+				"htm",
+				"Snippet: html"
+			],
+			[
+				"paci",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"filmo",
+				"File: Move"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/blog",
+		"/Applications/MAMP/htdocs/blog/app",
+		"/Applications/MAMP/htdocs/blog/app/controllers"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/blog/bootstrap/start.php",
+		"/Applications/MAMP/htdocs/blog/vendor/nesbot/carbon/tests/SubTest.php",
+		"/Applications/MAMP/htdocs/blog/server.php",
+		"/Users/Michael/Google Drive/Code Dump/simple-parallax/style.css",
+		"/Users/Michael/Google Drive/Code Dump/simple-parallax/index.html",
+		"/Users/Michael/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/Michael/Google Drive/Code Dump/jquery-ajax-form/script.js",
+		"/Users/Michael/Google Drive/Code Dump/jquery-ajax-form/index.html",
+		"/Users/Michael/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Michael/Google Drive/Code Dump/jquery-ajax-form/process.php",
+		"/Users/Michael/Google Drive/Code Dump/business-card/style.css",
+		"/Users/Michael/Google Drive/Code Dump/business-card/index.html",
+		"/Applications/MAMP/htdocs/ng-simple-routing/npm-debug.log",
+		"/Users/Michael/Google Drive/Code Dump/ng-simple-routing/partials/contact.html",
+		"/Users/Michael/Google Drive/Code Dump/ng-simple-routing/partials/about.html",
+		"/Users/Michael/Google Drive/Code Dump/ng-simple-routing/partials/home.html",
+		"/Users/Michael/Google Drive/Code Dump/ng-simple-routing/index.html",
+		"/Users/Michael/Google Drive/Code Dump/ng-simple-routing/script.js",
+		"/Users/Michael/Google Drive/Projects/Admissions/form5 copy.html",
+		"/Users/Michael/Google Drive/Code Dump/Form Placeholder/css/style.css",
+		"/Users/Michael/Google Drive/Web Development Resources/AngularJS/Fundamentals-YT/js/angular-route.min.js",
+		"/Users/Michael/Library/Application Support/Sublime Text 3/Packages/AngularJS/AngularJS-completions.sublime-settings",
+		"/Users/Michael/Google Drive/Web Development Resources/AngularJS/Fundamentals-YT/css/style.css",
+		"/Users/Michael/Google Drive/Web Development Resources/AngularJS/Fundamentals-YT/index.html",
+		"/Users/Michael/Google Drive/Web Development Resources/AngularJS/Fundamentals-YT/js/script.js",
+		"/Users/Michael/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/Michael/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/Michael/Library/Application Support/Sublime Text 3/Packages/View in Browser/Default (OSX).sublime-keymap",
+		"/Users/Michael/Google Drive/Web Development Resources/Web Fundamentals/Sites/bootstrap-design/index.html",
+		"/Users/Michael/Google Drive/Web Development Resources/Web Fundamentals/Sites/bootstrap-design/css/style.css",
+		"/Users/Michael/Google Drive/Web Development Resources/Web Fundamentals/Sites/bootstrap-design/js/script.js",
+		"/Users/Michael/Google Drive/Web Development Resources/Web Fundamentals/Sites/CS256/index.html",
+		"/Users/Michael/Google Drive/Web Development Resources/Web Fundamentals/Sites/CS256/style.css",
+		"/Applications/MAMP/htdocs/larabook/app/Larabook/Users/User.php",
+		"/Applications/MAMP/htdocs/larabook/app/controllers/UsersController.php",
+		"/Applications/MAMP/htdocs/larabook/app/Larabook/Users/UserRepository.php",
+		"/Applications/MAMP/htdocs/larabook/app/controllers/FollowersController.php",
+		"/Applications/MAMP/htdocs/larabook/app/Larabook/Users/FollowUserCommand.php",
+		"/Applications/MAMP/htdocs/larabook/app/controllers/StatusesController.php",
+		"/Applications/MAMP/htdocs/larabook/app/Larabook/Statuses/Status.php",
+		"/Applications/MAMP/htdocs/larabook/app/database/seeds/StatusesTableSeeder.php",
+		"/Applications/MAMP/htdocs/larabook/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/test/new-glob-optional-options.js",
+		"/Applications/MAMP/htdocs/larabook/app/views/users/partials/follow-form.blade.php",
+		"/Applications/MAMP/htdocs/larabook/tests/functional/FollowingCept.php",
+		"/Applications/MAMP/htdocs/larabook/tests/fixtures.yml",
+		"/Applications/MAMP/htdocs/larabook/tests/_output/FollowingCept.fail.html",
+		"/Applications/MAMP/htdocs/larabook/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/AntiFloodPlugin.php",
+		"/Applications/MAMP/htdocs/larabook/app/routes.php",
+		"/Applications/MAMP/htdocs/larabook/app/views/users/index.blade.php",
+		"/Applications/MAMP/htdocs/larabook/app/views/statuses/index.blade.php",
+		"/Applications/MAMP/htdocs/larabook/public/index.php",
+		"/Applications/MAMP/htdocs/larabook/vendor/laracasts/validation/src/Laracasts/Validation/FormValidator.php",
+		"/Applications/MAMP/htdocs/larabook/node_modules/gulp-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/form-validation.json",
+		"/Applications/MAMP/htdocs/larabook/node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/core-util-is/float.patch",
+		"/Applications/MAMP/htdocs/larabook/app/views/statuses/partials/status.blade.php",
+		"/Applications/MAMP/htdocs/larabook/app/views/layouts/partials/follow-form.blade.php",
+		"/Applications/MAMP/htdocs/larabook/app/views/users/show.blade.php",
+		"/Applications/MAMP/htdocs/larabook/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/test/stat.js",
+		"/Applications/MAMP/htdocs/larabook/vendor/laravel/framework/src/Illuminate/Log/Writer.php",
+		"/Applications/MAMP/htdocs/larabook/vendor/symfony/console/Symfony/Component/Console/Output/NullOutput.php",
+		"/Applications/MAMP/htdocs/larabook/vendor/filp/whoops/src/Whoops/Exception/FrameCollection.php",
+		"/Applications/MAMP/htdocs/larabook/vendor/patchwork/utf8/class/Patchwork/Utf8/data/caseFolding_full.ser",
+		"/Applications/MAMP/htdocs/larabook/artisan",
+		"/Applications/MAMP/htdocs/larabook/vendor/predis/predis/tests/Predis/Command/ServerTimeTest.php",
+		"/Applications/MAMP/htdocs/larabook/app/controllers/RegistrationController.php",
+		"/Applications/MAMP/htdocs/larabook/app/Larabook/Statuses/StatusPresenter.php",
+		"/Applications/MAMP/htdocs/larabook/app/Larabook/Statuses/StatusRepository.php",
+		"/Applications/MAMP/htdocs/larabook/app/controllers/BaseController.php",
+		"/Applications/MAMP/htdocs/larabook/app/views/sessions/create.blade.php",
+		"/Applications/MAMP/htdocs/larabook/vendor/predis/predis/examples/ServerSideScripting.php",
+		"/Applications/MAMP/htdocs/larabook/app/controllers/SessionsController.php",
+		"/Applications/MAMP/htdocs/larabook/vendor/codeception/codeception/src/Codeception/Event/StepEvent.php",
+		"/Applications/MAMP/htdocs/larabook/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/SimpleHeaderFactoryTest.php",
+		"/Applications/MAMP/htdocs/larabook/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Events/SendEventTest.php",
+		"/Applications/MAMP/htdocs/larabook/vendor/codeception/codeception/tests/unit/Codeception/Step/ExecutorTest.php",
+		"/Applications/MAMP/htdocs/larabook/app/views/statuses/partials/statuses.blade.php",
+		"/Applications/MAMP/htdocs/larabook/tests/integration/Users/UserRepositoryTest.php",
+		"/Applications/MAMP/htdocs/larabook/tests/integration/Statuses/StatusRepositoryTest.php",
+		"/Applications/MAMP/htdocs/larabook/tests/functional/ProfileCept.php",
+		"/Applications/MAMP/htdocs/larabook/tests/functional/PostStatusCept.php",
+		"/Applications/MAMP/htdocs/larabook/app/Larabook/Forms/RegistrationForm.php",
+		"/Applications/MAMP/htdocs/larabook/app/Larabook/Registration/RegisterUserCommand.php",
+		"/Applications/MAMP/htdocs/larabook/vendor/monolog/monolog/src/Monolog/Registry.php",
+		"/Applications/MAMP/htdocs/larabook/app/Larabook/Registration/RegisterUserCommandHandler.php",
+		"/Applications/MAMP/htdocs/larabook/vendor/codeception/codeception/tests/cli/RunEnvironmentCest.php",
+		"/Applications/MAMP/htdocs/larabook/tests/integration/IntegrationTester.php",
+		"/Applications/MAMP/htdocs/larabook/tests/integration/_bootstrap.php",
+		"/Applications/MAMP/htdocs/larabook/tests/integration.suite.yml",
+		"/Applications/MAMP/htdocs/larabook/vendor/phpunit/phpunit/tests/_files/ExceptionInTearDownTest.php",
+		"/Applications/MAMP/htdocs/larabook/vendor/phpunit/phpunit-mock-objects/tests/MockObject/interface.phpt",
+		"/Applications/MAMP/htdocs/larabook/app/views/statuses/partials/publish-status-form.blade.php",
+		"/Applications/MAMP/htdocs/larabook/vendor/symfony/security-core/Symfony/Component/Security/Core/Tests/User/UserTest.php",
+		"/Applications/MAMP/htdocs/larabook/tests/_support/FunctionalHelper.php",
+		"/Applications/MAMP/htdocs/larabook/tests/functional.suite.yml",
+		"/Applications/MAMP/htdocs/larabook/app/database/production.sqlite",
+		"/Applications/MAMP/htdocs/larabook/vendor/codeception/codeception/src/Codeception/Event/PrintResultEvent.php",
+		"/Applications/MAMP/htdocs/larabook/app/controllers/PagesController.php",
+		"/Applications/MAMP/htdocs/larabook/app/views/layouts/partials/nav.blade.php",
+		"/Applications/MAMP/htdocs/larabook/vendor/fzaninotto/faker/src/Faker/Factory.php",
+		"/Applications/MAMP/htdocs/larabook/vendor/fzaninotto/faker/.gitignore",
+		"/Applications/MAMP/htdocs/larabook/node_modules/gulp-sass/node_modules/node-sass/node_modules/sinon/lib/sinon/util/fake_xml_http_request.js",
+		"/Applications/MAMP/htdocs/larabook/vendor/guzzlehttp/guzzle/src/Adapter/FakeParallelAdapter.php",
+		"/Applications/MAMP/htdocs/larabook/vendor/laracasts/testdummy/src/Laracasts/TestDummy/Factory.php",
+		"/Applications/MAMP/htdocs/larabook/vendor/symfony/security-core/Symfony/Component/Security/Core/Exception/UnsupportedUserException.php",
+		"/Applications/MAMP/htdocs/larabook/tests/functional/ShowUsersCept.php",
+		"/Applications/MAMP/htdocs/larabook/app/assets/sass/main.scss",
+		"/Applications/MAMP/htdocs/larabook/vendor/phpunit/phpunit-mock-objects/tests/MockObject/Invocation/StaticTest.php",
+		"/Applications/MAMP/htdocs/larabook/app/views/layouts/partials/avatar.blade.php",
+		"/Applications/MAMP/htdocs/larabook/vendor/classpreloader/classpreloader/src/ClassPreloader/Parser/AbstractNodeVisitor.php",
+		"/Applications/MAMP/htdocs/larabook/app/config/app.php",
+		"/Applications/MAMP/htdocs/larabook/vendor/phpunit/phpunit/tests/_files/ExceptionInTest.php",
+		"/Applications/MAMP/htdocs/larabook/app/Larabook/Users/UserPresenter.php",
+		"/Applications/MAMP/htdocs/larabook/app/config/view.php",
+		"/Applications/MAMP/htdocs/larabook/app/config/workbench.php",
+		"/Applications/MAMP/htdocs/larabook/app/config/session.php",
+		"/Applications/MAMP/htdocs/larabook/app/config/services.php",
+		"/Applications/MAMP/htdocs/larabook/app/config/remote.php",
+		"/Applications/MAMP/htdocs/larabook/app/config/queue.php",
+		"/Applications/MAMP/htdocs/larabook/app/config/mail.php",
+		"/Applications/MAMP/htdocs/larabook/app/config/database.php",
+		"/Applications/MAMP/htdocs/larabook/app/config/compile.php",
+		"/Applications/MAMP/htdocs/larabook/app/config/cache.php",
+		"/Applications/MAMP/htdocs/larabook/app/config/auth.php",
+		"/Applications/MAMP/htdocs/larabook/vendor/classpreloader/classpreloader/src/ClassPreloader/Config.php",
+		"/Applications/MAMP/htdocs/larabook/node_modules/gulp-sass/node_modules/node-sass/libsass/configure.ac",
+		"/Applications/MAMP/htdocs/larabook/vendor/guzzlehttp/guzzle/docs/conf.py",
+		"/Applications/MAMP/htdocs/larabook/CONTRIBUTING.md",
+		"/Applications/MAMP/htdocs/larabook/composer.json"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"",
+			"app/views/",
+			"views",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tool",
+			"<tr",
+			"tr>",
+			"tr",
+			"table",
+			"style=",
+			"<label",
+			"span>",
+			"label",
+			"label ",
+			"input",
+			".form .field ",
+			"data-",
+			"larabook.app",
+			"updates!",
+			"a",
+			"li",
+			"tab",
+			"white_s",
+			"whitespace",
+			"();\n",
+			"null",
+			"store",
+			"public",
+			"remember_token",
+			"surguy",
+			".png",
+			"ff8383",
+			"#ee2612",
+			"rgba(251, 80, 59, .6)",
+			"#ef2e1c",
+			"#f47063",
+			"#fb503b",
+			"laratricks",
+			"ef2e1c",
+			"fb503b",
+			"search",
+			".js",
+			".png",
+			".css",
+			".1.",
+			"h2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/controllers/BaseController.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 98.0
+	},
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"star",
+				"bootstrap/start.php"
+			],
+			[
+				"sc",
+				"script.js"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"cona",
+				"partials/contact.html"
+			],
+			[
+				"ho",
+				"partials/home.html"
+			],
+			[
+				"scrip",
+				"script.js"
+			],
+			[
+				"con",
+				"partials/contact.html"
+			],
+			[
+				"abo",
+				"partials/about.html"
+			],
+			[
+				"hom",
+				"partials/home.html"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"sct",
+				"script.js"
+			],
+			[
+				"st",
+				"css/style.css"
+			],
+			[
+				"userre",
+				"app/Larabook/Users/UserRepository.php"
+			],
+			[
+				"stat",
+				"app/controllers/StatusesController.php"
+			],
+			[
+				"folo-fo",
+				"app/views/users/partials/follow-form.blade.php"
+			],
+			[
+				"folow",
+				"app/views/users/partials/follow-form.blade.php"
+			],
+			[
+				"foller",
+				"app/controllers/FollowersController.php"
+			],
+			[
+				"route",
+				"app/routes.php"
+			],
+			[
+				"index.blade",
+				"app/views/users/index.blade.php"
+			],
+			[
+				"foll-",
+				"app/views/layouts/partials/follow-form.blade.php"
+			],
+			[
+				"show",
+				"app/views/users/show.blade.php"
+			],
+			[
+				"stat.bla",
+				"app/views/statuses/partials/status.blade.php"
+			],
+			[
+				"foll",
+				"tests/functional/FollowingCept.php"
+			],
+			[
+				"",
+				"artisan"
+			],
+			[
+				"stta",
+				"app/controllers/StatusesController.php"
+			],
+			[
+				"use",
+				"app/controllers/UsersController.php"
+			],
+			[
+				"base",
+				"app/controllers/BaseController.php"
+			],
+			[
+				"sescreate",
+				"app/views/sessions/create.blade.php"
+			],
+			[
+				"sess",
+				"app/controllers/SessionsController.php"
+			],
+			[
+				"use/show",
+				"app/views/users/show.blade.php"
+			],
+			[
+				"statuses",
+				"app/views/statuses/partials/statuses.blade.php"
+			],
+			[
+				"rou",
+				"app/routes.php"
+			],
+			[
+				"profil",
+				"tests/functional/ProfileCept.php"
+			],
+			[
+				"stsco",
+				"app/controllers/StatusesController.php"
+			],
+			[
+				"regis",
+				"app/controllers/RegistrationController.php"
+			],
+			[
+				"stature",
+				"tests/integration/Statuses/StatusRepositoryTest.php"
+			],
+			[
+				"integra/",
+				"tests/integration/Users/UserRepositoryTest.php"
+			],
+			[
+				"fix",
+				"tests/fixtures.yml"
+			],
+			[
+				"userete",
+				"tests/integration/Users/UserRepositoryTest.php"
+			],
+			[
+				"funhelp",
+				"tests/_support/FunctionalHelper.php"
+			],
+			[
+				"funhel",
+				"tests/_support/FunctionalHelper.php"
+			],
+			[
+				"prof",
+				"tests/functional/ProfileCept.php"
+			],
+			[
+				"index",
+				"app/views/statuses/index.blade.php"
+			],
+			[
+				"faker/fa",
+				"vendor/fzaninotto/faker/src/Faker/Factory.php"
+			],
+			[
+				"nav",
+				"app/views/layouts/partials/nav.blade.php"
+			],
+			[
+				"userepo",
+				"app/Larabook/Users/UserRepository.php"
+			],
+			[
+				"sta",
+				"app/controllers/StatusesController.php"
+			],
+			[
+				"stattes",
+				"tests/integration/Statuses/StatusRepositoryTest.php"
+			],
+			[
+				"user",
+				"app/Larabook/Users/User.php"
+			],
+			[
+				"usecon",
+				"app/controllers/UsersController.php"
+			],
+			[
+				"ava",
+				"app/views/layouts/partials/avatar.blade.php"
+			],
+			[
+				"rout",
+				"app/routes.php"
+			],
+			[
+				"integ",
+				"tests/integration.suite.yml"
+			],
+			[
+				"fixy",
+				"tests/fixtures.yml"
+			],
+			[
+				"config/",
+				"app/config/view.php"
+			],
+			[
+				"partials/",
+				"app/views/layouts/partials/avatar.blade.php"
+			],
+			[
+				"userpre",
+				"app/Larabook/Users/UserPresenter.php"
+			],
+			[
+				"main",
+				"app/assets/sass/main.scss"
+			],
+			[
+				".en",
+				".env.testing.php"
+			],
+			[
+				"userrepo",
+				"app/Larabook/Users/UserRepository.php"
+			],
+			[
+				"datasee",
+				"app/database/seeds/DatabaseSeeder.php"
+			],
+			[
+				"statsee",
+				"app/database/seeds/StatusesTableSeeder.php"
+			],
+			[
+				"usesee",
+				"app/database/seeds/UsersTableSeeder.php"
+			],
+			[
+				"com",
+				"composer.json"
+			],
+			[
+				"statseed",
+				"app/database/seeds/StatusesTableSeeder.php"
+			],
+			[
+				"funche",
+				"tests/_support/FunctionalHelper.php"
+			],
+			[
+				"post",
+				"tests/functional/PostStatusCept.php"
+			],
+			[
+				"mai",
+				"app/assets/sass/main.scss"
+			],
+			[
+				"ma",
+				"app/assets/sass/main.scss"
+			],
+			[
+				"presen",
+				"vendor/laracasts/presenter/src/Laracasts/Presenter/PresentableTrait.php"
+			],
+			[
+				"usepre",
+				"app/Larabook/Users/UserPresenter.php"
+			],
+			[
+				"compos",
+				"composer.json"
+			],
+			[
+				"userpe",
+				"app/Larabook/Users/UserPresenter.php"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"repos",
+				"app/Larabook/Statuses/StatusRepository.php"
+			],
+			[
+				"statu",
+				"app/Larabook/Statuses/Status.php"
+			],
+			[
+				"pubhan",
+				"app/Larabook/Statuses/PublishStatusCommandHandler.php"
+			],
+			[
+				"publscom",
+				"app/Larabook/Statuses/PublishStatusCommand.php"
+			],
+			[
+				"statuwa",
+				"app/Larabook/Statuses/Events/StatusWasPublished.php"
+			],
+			[
+				"signin",
+				"app/Larabook/Forms/SignInForm.php"
+			],
+			[
+				"regifo",
+				"app/Larabook/Forms/RegistrationForm.php"
+			],
+			[
+				"publfor",
+				"app/Larabook/Forms/PublishStatusForm.php"
+			],
+			[
+				"comma",
+				"app/Larabook/Core/CommandBus.php"
+			],
+			[
+				"publ",
+				"app/Larabook/Statuses/PublishStatusCommandHandler.php"
+			],
+			[
+				"formvali",
+				"vendor/laracasts/validation/src/Laracasts/Validation/FormValidator.php"
+			],
+			[
+				"statfo",
+				"app/Larabook/Forms/PublishStatusForm.php"
+			],
+			[
+				"publi",
+				"app/Larabook/Statuses/PublishStatusCommandHandler.php"
+			],
+			[
+				"functiohel",
+				"tests/_support/FunctionalHelper.php"
+			],
+			[
+				"waspu",
+				"app/Larabook/Statuses/Events/StatusWasPublished.php"
+			],
+			[
+				"controsess",
+				"app/controllers/SessionsController.php"
+			],
+			[
+				"commahan",
+				"app/Larabook/Statuses/PublishStatusCommandHandler.php"
+			],
+			[
+				"commanhand",
+				"vendor/laracasts/commander/src/Laracasts/Commander/CommandHandler.php"
+			],
+			[
+				"publis",
+				"app/Larabook/Statuses/PublishStatusCommandHandler.php"
+			],
+			[
+				"pos",
+				"tests/functional/PostStatusCept.php"
+			],
+			[
+				"functio",
+				"tests/_support/FunctionalHelper.php"
+			],
+			[
+				"statcep",
+				"tests/functional/PostStatusCept.php"
+			],
+			[
+				"create",
+				"app/database/migrations/2014_07_23_192956_create_statuses_table.php"
+			],
+			[
+				"create_",
+				"app/database/migrations/2014_07_23_192956_create_statuses_table.php"
+			],
+			[
+				"fixtures",
+				"tests/fixtures.yml"
+			],
+			[
+				"func",
+				"tests/_support/FunctionalHelper.php"
+			],
+			[
+				"home",
+				"app/views/pages/home.blade.php"
+			],
+			[
+				"sign",
+				"tests/functional/SignUpCept.php"
+			],
+			[
+				"funct",
+				"tests/_support/FunctionalHelper.php"
+			],
+			[
+				"factory.php",
+				"vendor/laracasts/testdummy/src/Laracasts/TestDummy/Factory.php"
+			],
+			[
+				"function",
+				"tests/_support/FunctionalHelper.php"
+			],
+			[
+				"reg",
+				"app/controllers/RegistrationController.php"
+			],
+			[
+				"app",
+				"app/config/app.php"
+			],
+			[
+				"defua",
+				"app/views/layouts/default.blade.php"
+			],
+			[
+				"regi",
+				"app/controllers/RegistrationController.php"
+			],
+			[
+				"userregis",
+				"app/Larabook/Registration/Events/UserRegistered.php"
+			],
+			[
+				"disptra",
+				"vendor/laracasts/commander/src/Laracasts/Commander/Events/DispatchableTrait.php"
+			],
+			[
+				"evengen",
+				"vendor/laracasts/commander/src/Laracasts/Commander/Events/EventGenerator.php"
+			],
+			[
+				"auth",
+				"app/config/auth.php"
+			],
+			[
+				"regihan",
+				"app/Larabook/Registration/RegisterUserCommandHandler.php"
+			],
+			[
+				"regista",
+				"app/Larabook/Forms/RegistrationForm.php"
+			],
+			[
+				"registhan",
+				"app/Larabook/Registration/RegisterUserCommandHandler.php"
+			],
+			[
+				"regishan",
+				"app/Larabook/Registration/RegisterUserCommandHandler.php"
+			],
+			[
+				"creat",
+				"app/views/registration/create.blade.php"
+			],
+			[
+				"gulp",
+				"Gulpfile.js"
+			],
+			[
+				"crea",
+				"app/views/registration/create.blade.php"
+			],
+			[
+				"glo",
+				"app/start/global.php"
+			],
+			[
+				"fun",
+				"tests/functional.suite.yml"
+			],
+			[
+				"createuse",
+				"app/database/migrations/2014_07_19_132545_create_users_table.php"
+			],
+			[
+				"createusers",
+				"app/database/migrations/2014_07_19_132545_create_users_table.php"
+			],
+			[
+				"defau",
+				"app/views/layouts/default.blade.php"
+			],
+			[
+				"gu",
+				"Gulpfile.js"
+			],
+			[
+				".scs",
+				"app/assets/sass/main.scss"
+			],
+			[
+				"page",
+				"app/controllers/PagesController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
